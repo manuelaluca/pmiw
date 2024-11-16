@@ -1,4 +1,4 @@
-let objJuego;                                                         //Manuela Luca 119071/8
+let objJuego;                                                         //Manuela Luca 119071/8 Delfina Ortega 119105/1
 let fondos = [];                                                     // Comisión 2
 let sonido;                                                         //https://youtu.be/3bXDF8gUaAM
 
